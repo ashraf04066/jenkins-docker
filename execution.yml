@@ -17,4 +17,4 @@ scenarios:
       url: http://www.blazedemo.com/
     store-cache: false
     store-cookie: false
-    use-dns-cache-mgr: false
+   // use-dns-cache-mgr: false
